@@ -1,0 +1,7 @@
+The board game "Go", implemented in C for the Nintendo GameBoy
+
+To build, download GBDK from http://gbdk.sourceforge.com
+
+Add gbdk/bin to your path, and run make.bat
+
+I'm testing this on BizHawk 1.11.4, available from http://tasvideos.org/Bizhawk.html
